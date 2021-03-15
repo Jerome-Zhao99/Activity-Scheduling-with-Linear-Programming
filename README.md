@@ -1,0 +1,2 @@
+# Activity-Scheduling-with-Linear-Programming
+In the face of today’s fast-paced social life, time is one of the best chips. By using your time effectively, you can make your life more meaningful. Now Amy, a management science student at Xiamen University, needs to structure her weekly schedule for the second semester of her junior year. It is known that there are four compulsory courses, 7 optional courses, between the elective courses will have conflicts in class time. Her goal is to maximize the “total value” of her schedule.
